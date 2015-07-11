@@ -9,4 +9,4 @@ Building
 
 Compile the one .c file::
 
-    gcc dumpoid.c -lssl -lcrypto -o dumpoids
+    gcc dumpoids.c -lssl -lcrypto -o dumpoids
